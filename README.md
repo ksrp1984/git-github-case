@@ -7,6 +7,7 @@
 > - [title-dash](#title-dash) 
 > - [[#"title space"|title space]]
 > - [My Great Heading](#custom-id)
+> - <a href="#custom-id">Heading IDs</a>
 
 ## title1
 
