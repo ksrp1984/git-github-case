@@ -6,6 +6,7 @@
 > - [installs_id](#i_id) 
 > - [title-dash](#title-dash) 
 > - [[#"title space"|title space]]
+> - [My Great Heading](#custom-id)
 
 ## title1
 
@@ -41,3 +42,4 @@ aa
 aa  
 aa  
 ## "title space"
+### My Great Heading {#custom-id}
