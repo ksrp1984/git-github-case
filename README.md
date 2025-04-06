@@ -5,7 +5,7 @@
 > - [installs](#installs) 
 > - [installs_id](#i_id) 
 > - [title-dash](#title-dash) 
-> - [[README#"title space"|title space]]
+> - [[#"title space"|title space]]
 
 ## title1
 
