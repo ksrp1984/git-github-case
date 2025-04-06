@@ -8,6 +8,10 @@
 
 [Title](<#Title 1>)
 
+[Title](<#Title 2>)
+
+[thisblock](#^thisblock)
+
 
 
 
@@ -42,5 +46,6 @@ a
 a   
 ## Third Example
 ## [Fourth Example](http://www.fourthexample.com)
-<a name="Title 1"></a>
-# title 1 
+
+# title 1 ^thisblock
+<a name="Title 2"></a>
