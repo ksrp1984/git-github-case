@@ -10,7 +10,6 @@
 > - [title-space3](#title Space3) 
 > - [[#title-space|title space]]
 > - [My Great Heading](#customid)
-> - <a href="#customid">Heading IDs</a>
 
 ## title1
 
@@ -48,4 +47,4 @@ aa
 ## title-space
 ## title-Space2
 ## title Space3
-## My Great Heading {#customid} ##
+## My Great Heading {#customid}
