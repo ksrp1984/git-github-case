@@ -6,6 +6,10 @@
 5. [subdir](subdir/ex.md#title1)
 6. [subdir](subdir/ex.md#title2)
 
+[Title](<#Title 1>)
+
+
+
 
 ## Example
 ## Example2
@@ -38,3 +42,4 @@ a
 a   
 ## Third Example
 ## [Fourth Example](http://www.fourthexample.com)
+# Title 1
