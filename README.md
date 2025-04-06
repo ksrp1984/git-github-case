@@ -6,7 +6,7 @@
 5. [subdir](subdir/ex.md#title1)
 6. [subdir](subdir/ex.md#title2)
 
-[Title](<#title 1>)
+[Title](<#title-1>)
 
 
 
