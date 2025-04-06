@@ -1,21 +1,11 @@
 > ## Оглавление  
-- [Заголовок]([Untitled#^your-id])  
-- [Настройка](#target-section) 
+- [t1](#title1)  
+- [t2](#title2) 
+- [install](#установка) 
 
+## title1
 
-[[Untitled#Заголовок h1 { custom} { header} { custom-header} your-id|link]]
+## title2
 
-# Заголовок h1 {#custom} {#header} {#custom-header} ^your-id
-
-<h2 id="target-section"></h2>
-
-#tg1 
-
-d
-dd
-d
-dd
-
-#tg2
-
-[[any-id]]
+## Установка
+Текст...
