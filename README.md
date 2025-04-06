@@ -4,6 +4,7 @@
 3. [Third Example](#Third%20Example)
 4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
 5. [subdir](subdir/ex.md#title1)
+6. [subdir](subdir/ex.md#title2)
 
 
 ## Example
