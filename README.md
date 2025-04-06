@@ -4,8 +4,11 @@
 > - [install](#установка-пакета) 
 > - [installs](#installs) 
 > - [installs_id](#i_id) 
-> - [title-dash](#title-dash) 
-> - [[#"title space"|title space]]
+> - [title-dash](#title-dash)
+> - [title-space](#title-space)
+> - [title-space2](#title-Space2)
+> - [title-space3](#title Space3) 
+> - [[#title-space|title space]]
 > - [My Great Heading](#customid)
 > - <a href="#customid">Heading IDs</a>
 
@@ -42,5 +45,7 @@ aa
 aa  
 aa  
 aa  
-## "title space" ##
+## title-space
+## title-Space2
+## title Space3
 ## My Great Heading {#customid} ##
