@@ -6,7 +6,7 @@
 5. [subdir](subdir/ex.md#title1)
 6. [subdir](subdir/ex.md#title2)
 
-[Title](<#title-1>)
+[Title](<#Title 1>)
 
 
 
@@ -42,4 +42,5 @@ a
 a   
 ## Third Example
 ## [Fourth Example](http://www.fourthexample.com)
-# Title 1
+<a name="Title 1"></a>
+# title 1 
