@@ -7,7 +7,7 @@
 
 # Заголовок h1 {#custom} {#header} {#custom-header} ^your-id
 
-<h2 id="target-section">Заголовок раздела</h2>
+<h2 id="target-section"></h2>
 
 #tg1 
 
