@@ -5,14 +5,13 @@
 4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
 5. [subdir](subdir/ex.md#title1)
 6. [subdir](subdir/ex.md#title2)
-
-[Title](</#title 1>)
+<!-- Заголовок с пробелом -->
+## Title 1  
 
 
 
 ## Example
 ## Example2
-###### якорь
 a   
 a   
 a   
@@ -39,9 +38,7 @@ a
 a   
 a   
 a   
-## Third Example
-## [Fourth Example](http://www.fourthexample.com)
-
+[Ссылка на раздел](<#Title 1>)  <!-- Вариант с < > -->
 
 
 # <title 1>
